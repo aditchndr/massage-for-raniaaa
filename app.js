@@ -95,7 +95,7 @@ function loadTrack(trackIndex) {
 loadTrack(trackIndex);
 
 function playPauseTrack() {
-  if (isPlaying == true) {
+  if (isPlaying = false) {
     playTrack();
   } else {
     pauseTrack();
