@@ -57,15 +57,15 @@ let soundBarsLottie = bodymovin.loadAnimation({
 });
 
 let trackList = [
+   {
+    name: "Penjaga Hati",
+    artist: "Nadhif Basalamah",
+    path: "./music/Penjaga Hati.mp3",
+  },
   {
     name: "Get You",
     artist: "Daniel Caesar",
     path: "./music/Get You (feat. Kali Uchis).mp3",
-  },
-  {
-    name: "Penjaga Hati",
-    artist: "Nadhif Basalamah",
-    path: "./music/Penjaga Hati.mp3",
   },
   {
     name: "U(You)",
